@@ -44,7 +44,8 @@ int main()
 
 ## Output:
 
-<img width="911" height="196" alt="image" src="https://github.com/user-attachments/assets/0258af40-7cb2-4f27-9ac1-40c2d3279b30" />
+<img width="417" height="167" alt="Screenshot 2026-11-17 at 2 42 22 PM" src="https://github.com/user-attachments/assets/f71cca09-c6b8-4305-ad83-65cfe587b5bd" />
+
 
 ## Result:
   The program is executed successfully
